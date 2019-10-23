@@ -1,0 +1,33 @@
+<resources>
+    <string name="about">关于应用</string>
+    <string name="app_description">遇到问题, 欢迎通过 GitHub Issue 反馈\nhttps://github.com/craftslab/werobot</string>
+    <string name="app_name">WeRobot</string>
+    <string name="app_version">v0.1</string>
+    <string name="community">社区</string>
+    <string name="d">延迟0秒</string>
+    <string name="delay_delay">延迟</string>
+    <string name="delay_instantly">立即</string>
+    <string name="delay_sec">秒</string>
+    <string name="delay_send">发送</string>
+    <string name="delay_then">然后</string>
+    <string name="github_1">在 GitHub 上</string>
+    <string name="github_2">本项目，支持应用开源</string>
+    <string name="help_and_feedback">帮助与反馈</string>
+    <string name="help_hint">前往 GitHub 项目主页提交 issue</string>
+    <string name="options">选项</string>
+    <string name="preference">偏好设置</string>
+    <string name="random_msg_len">随机信息长度</string>
+    <string name="send_random_msg">随机发送信息</string>
+    <string name="send_with_delay">延时发送信息</string>
+    <string name="service_off">关闭插件</string>
+    <string name="service_on">开启插件</string>
+    <string name="settings">设置</string>
+    <string name="set_receiver_name">指定接收者</string>
+    <string name="star_1">★</string>
+    <string name="star_2">Star</string>
+    <string name="todo">TODO</string>
+    <string name="turn_on_error_toast">遇到一些问题,请手动打开 系统设置 - 无障碍服务 - WeRobot</string>
+    <string name="turn_on_toast">点击 WeRobot</string>
+    <string name="url_github_issues">https://github.com/craftslab/werobot/issues</string>
+    <string name="webview_github_title">GitHub 项目主页</string>
+</resources>

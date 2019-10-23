@@ -1,0 +1,33 @@
+<resources>
+    <string name="about">About</string>
+    <string name="app_description">Please submit your feedback on GitHub Issues Page\nhttps://github.com/craftslab/werobot</string>
+    <string name="app_name">WeRobot</string>
+    <string name="app_version">v0.1</string>
+    <string name="community">Community</string>
+    <string name="d">Delay 0 second</string>
+    <string name="delay_delay">Delay for&#160;</string>
+    <string name="delay_instantly">Instantly&#160;</string>
+    <string name="delay_sec">&#160;seconds&#160;</string>
+    <string name="delay_send">Send message</string>
+    <string name="delay_then">and then&#160;</string>
+    <string name="github_1"/>
+    <string name="github_2">this app on GitHub to support us</string>
+    <string name="help_and_feedback">Help and feedback</string>
+    <string name="help_hint">Submit issues on GitHub homepage</string>
+    <string name="options">Options</string>
+    <string name="preference">Preferences</string>
+    <string name="random_msg_len">Random message length</string>
+    <string name="send_random_msg">Send random message</string>
+    <string name="send_with_delay">Send message with a delay</string>
+    <string name="service_off">Turn Off</string>
+    <string name="service_on">Turn On</string>
+    <string name="settings">Settings</string>
+    <string name="set_receiver_name">Set receiver name</string>
+    <string name="star_1">★</string>
+    <string name="star_2">Star</string>
+    <string name="todo">TODO</string>
+    <string name="turn_on_error_toast">An error occurred. Please manually open System Settings - Accessibility - WeRobot</string>
+    <string name="turn_on_toast">Click WeRobot &#160;</string>
+    <string name="url_github_issues">https://github.com/craftslab/werobot/issues</string>
+    <string name="webview_github_title">Project Homepage on GitHub</string>
+</resources>
