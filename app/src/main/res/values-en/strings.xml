@@ -14,9 +14,10 @@
     <string name="github_2">this app on GitHub to support us</string>
     <string name="help_and_feedback">Help and feedback</string>
     <string name="help_hint">Submit issues on GitHub homepage</string>
+    <string name="msg_content">Message content</string>
+    <string name="msg_len">Message length</string>
     <string name="options">Options</string>
     <string name="preference">Preferences</string>
-    <string name="random_msg_len">Random message length</string>
     <string name="send_random_msg">Send random message</string>
     <string name="send_with_delay">Send message with a delay</string>
     <string name="service_off">Turn Off</string>

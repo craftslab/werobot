@@ -158,14 +158,20 @@ public class WeRobotService extends AccessibilityService implements SharedPrefer
     }
 
     private void sendMessage(AccessibilityNodeInfo node) {
-        String message;
+        String message = "";
+        int msgLen = Integer.parseInt(sharedPreferences.getString("pref_msg_len", "0"));
 
         if (sharedPreferences.getBoolean("pref_send_random", false)) {
-            String randomLen = sharedPreferences.getString("pref_random_len", "100");
-            message = RandomMsg.unicode(Integer.parseInt(randomLen));
+            if (msgLen > 0) {
+                message = RandomMsg.unicode(msgLen);
+            }
         } else {
-            // TODO
-            message = "Hello World!";
+            String content = sharedPreferences.getString("pref_msg_content", "");
+            if (content.length() != 0) {
+                for (int i = 0; i < msgLen; ++i) {
+                    message = message.concat(content);
+                }
+            }
         }
 
         try {

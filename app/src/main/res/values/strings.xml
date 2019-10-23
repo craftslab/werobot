@@ -14,9 +14,10 @@
     <string name="github_2">本项目，支持应用开源</string>
     <string name="help_and_feedback">帮助与反馈</string>
     <string name="help_hint">前往 GitHub 项目主页提交 issue</string>
+    <string name="msg_content">信息内容</string>
+    <string name="msg_len">信息长度</string>
     <string name="options">选项</string>
     <string name="preference">偏好设置</string>
-    <string name="random_msg_len">随机信息长度</string>
     <string name="send_random_msg">随机发送信息</string>
     <string name="send_with_delay">延时发送信息</string>
     <string name="service_off">关闭插件</string>
